@@ -15,3 +15,9 @@ manager is allowed to see the contract balance and to randomly select the winner
 
 5. The contract will transfer the entire balance to the winner's address and the lottery is reset and ready for the next 
 round.
+
+
+Updates made:- 
+
+1. The Manager can't participate in the lottery.
+2. The Manager will get 10% commission of the prize amount.
